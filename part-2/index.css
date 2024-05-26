@@ -1,0 +1,30 @@
+.tweet {
+    background-color: lightskyblue;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tweet div {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.tweet h1 {
+    margin: 5px 5px;
+}
+.tweet h4 {
+    margin-left: 10px;
+    opacity: 0.5;
+}
+
+.tweet p {
+    margin: 5px 5px;
+}
+
+.message {
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: solid black;
+    padding: 5px;
+}
